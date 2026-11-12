@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/contributions-dark.svg">
+  <img src="assets/contributions-light.svg" alt="Jonathan Benn's daily GitHub contribution grid for the last year, refreshed daily" width="100%">
+</picture>
+
 # Jonathan Benn
 
 **Full-stack developer building AI tools, games, and native creative software.**
@@ -26,7 +31,9 @@ I'm based in Los Angeles. I build across the stack: product interfaces, APIs, da
 **A jetpack-powered game set in Angel City, inspired by downtown Los Angeles.** An evolving Unity project combining flight, city exploration, races, and rooftop activities. The wider project includes a playable web entry point, an interactive city map, and a development blog.
 
 **Skills:** C#, Unity, URP, gameplay systems, 3D environments, web integration.  
-[Website](https://jetpackpals.com) · [Play](https://jetpackpals.com/play) · [Project overview](https://github.com/BonJenn/jetpackpals)
+[Website](https://jetpackpals.com) · [Play](https://jetpackpals.com/play) · [Public showcase](https://github.com/BonJenn/jetpackpals)
+
+Game source: [la-flight-game](https://github.com/BonJenn/la-flight-game) (private repository).
 
 ### [Clonebase](https://github.com/BonJenn/clonebase)
 
