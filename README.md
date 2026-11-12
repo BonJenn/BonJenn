@@ -1,8 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/contributions-dark.svg">
-  <img src="assets/contributions-light.svg" alt="Jonathan Benn's daily GitHub contribution grid for the last year, refreshed daily" width="100%">
-</picture>
-
 # Jonathan Benn
 
 **Full-stack developer building AI tools, games, and native creative software.**
