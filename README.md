@@ -4,7 +4,7 @@
 
 I'm based in Los Angeles. I build across the stack: product interfaces, APIs, databases, payments, native desktop apps, and real-time graphics. My projects range from a workspace for AI coding sessions to a jetpack game and live video production software.
 
-[Portfolio](https://jonathanbenn.dev) · [LinkedIn](https://www.linkedin.com/in/jonathan-benn) · [Explore my repositories](https://github.com/BonJenn?tab=repositories)
+[Portfolio](https://jonathanbenn.dev) · [Résumé (PDF)](https://github.com/BonJenn/BonJenn/blob/main/resume/Jonathan-Benn-Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/jonathan-benn) · [Explore my repositories](https://github.com/BonJenn?tab=repositories)
 
 ## A consistent building habit
 
